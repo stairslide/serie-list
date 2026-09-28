@@ -70,13 +70,13 @@ Testa se tela inicial foi renderizada corretamente
 
 Exibe lista de séries para o usuário, está na rota /list e seu link é 'Lista de séries'
 
-![Print da ListSerie](serieList.png)
+![Print da ListSerie](serieList.PNG)
 
 ### Serie
 
 Tela de edição de dados de série, está na rota /serie/idDaSerie e é acessada ao clicar nome de alguma série 
 
-![Print do componente Serie](SerieEdit.png)
+![Print do componente Serie](SerieEdit.PNG)
 
 ### Testes Cypress
 
