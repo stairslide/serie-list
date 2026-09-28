@@ -2,7 +2,7 @@
 ### Nome: Benjamin Chiappini
 
 Primeiramente, na API vá para a pasta bin e certifique-se que a porta é '5000'.
-![print indicando como porta deve estar](porta5000.png)
+![print indicando como porta deve estar](porta5000.PNG)
 
     No diretório do projeto, abra dois terminais, abrindo a api em um, e o projeto react em outro. Após isso, rode nos dois terminais os comandos:
 
